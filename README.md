@@ -12,6 +12,6 @@ I'm from Bangalore, India, and I've recently been falling in love with Design an
 - 📫 How to reach me: LinkedIn (Profile)
 - ⚡ Fun fact: I love Anime!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream)
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&show_icons=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream)
