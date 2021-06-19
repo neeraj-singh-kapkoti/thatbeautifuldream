@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/thatbeautifuldream/thatbeautifuldream/profile-banner.png)
+![Design and Development](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/profile-banner.png)
 
 # Milind Mishra
 
