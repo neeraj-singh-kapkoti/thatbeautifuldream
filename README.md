@@ -4,12 +4,6 @@
 
 I'm from Bangalore, India, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
-### Skills and Experience
-
-#### 💻 HTML, CSS, JS
-
-#### 🌍 C/C++
-
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Design Projects
