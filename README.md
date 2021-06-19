@@ -12,8 +12,6 @@ I'm from Bangalore, India, and I've recently been falling in love with Design an
 - 📫 How to reach me: LinkedIn (Profile)
 - ⚡ Fun fact: I love Anime!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thatbeautifuldream) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/milind--mishra/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/that_beautifuldream/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dryruncatch)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream)
