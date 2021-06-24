@@ -20,7 +20,7 @@ I'm from Bangalore, India, and I've recently been falling in love with Design an
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/dummy-resume.pdf)
+- :paperclip: [My Resume/CV (dummy-for-now)](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/dummy-resume.pdf)
 - :email: milind.mishra4@gmail.com
 
 #### Profile Visits
