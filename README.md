@@ -1,6 +1,4 @@
-### Hi there 👋, my name is Milind :)
-
-#### DSA & Web Development Enthusiast
+![banner](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/banner.png)
 
 I'm from Bangalore, India, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
