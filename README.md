@@ -5,7 +5,7 @@
 I'm from Bangalore, India, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dryruncatch)](https://twitter.com/dryruncatch)
-[![Mail Badge](https://img.shields.io/badge/-GMail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMG4BahZvx70a8fsRcczVpA)
+[![Mail Badge](https://img.shields.io/badge/-YouTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMG4BahZvx70a8fsRcczVpA)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milind--mishra/)
 [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/that_beautifuldream)
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:milind.mishra4@gmail.com)
