@@ -15,7 +15,7 @@ I'm from Bangalore, India, and I've recently been falling in love with Design an
 - 👯 I’m looking to collaborate on Design Projects
 - 🤔 I’m looking for help with Problem Solving
 - 💬 Ask me about DSA and Web Development
-- 📫 How to reach me: LinkedIn (Profile)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/milind--mishra/)
 - ⚡ Fun fact: I love Anime!
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&count_private=true&theme=tokyonight&hide=contribs,prs)
