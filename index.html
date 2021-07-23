@@ -158,12 +158,16 @@
     />
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="./images/res.ico" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="./images/profile-logo.png"
+      type="image/x-icon"
+    />
 
     <!-- Link manifest.json -->
     <link rel="manifest" href="manifest.json" />
 
-    <title>Hire me? 🥺</title>
+    <title>Portfolio</title>
   </head>
   <body>
     <!-- Nav Bar starts -->
@@ -467,6 +471,9 @@
       if ("serviceWorker" in navigator) {
         navigator.serviceWorker.register("/service-worker.js");
       }
+
+      document.title = "Milind's Portfolio";
+      document.title += "  🚀";
     </script>
   </body>
 </html>
