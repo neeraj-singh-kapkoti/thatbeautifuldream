@@ -17,15 +17,17 @@ I'm from Bangalore, India, and I've recently been falling in love with Design an
 
 ### Follow on Social Networks
 
-  <a href="https://www.youtube.com/channel/UCMG4BahZvx70a8fsRcczVpA">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/>
-  </a>&ensp;
-  <a href="https://twitter.com/dryruncatch/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
   <a href="https://www.linkedin.com/company/milind--mishra/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
+
+  <a href="https://twitter.com/dryruncatch/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+
   <a href="https://www.instagram.com/that_beautifuldream/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.youtube.com/channel/UCMG4BahZvx70a8fsRcczVpA">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/>
   </a>&ensp;
