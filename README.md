@@ -1,4 +1,4 @@
-![banner](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/images/banner-inverted.jpg)
+![banner](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/images/optimized-banner-inverted.jpg)
 
 I'm from Bangalore, India, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
