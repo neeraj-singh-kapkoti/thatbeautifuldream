@@ -8,7 +8,8 @@ I'm from Bangalore, India, and I've recently been falling in love with Design an
 
 ### Work Related
 
-- :paperclip: [My Resume/CV (temp)](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf)
+- :paperclip: [Resume](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf)
+- :paperclip: [Fancy Resume (temp)](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf)
 - :email: milind.mishra4@gmail.com
 
 ### Profile Visits
