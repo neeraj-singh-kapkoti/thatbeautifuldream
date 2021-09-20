@@ -1,6 +1,6 @@
 ![banner](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/images/optimized-banner-inverted.jpg)
 
-I'm from Bangalore, India, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
+I'm from `Bangalore, India`, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&count_private=true&theme=tokyonight&hide=contribs,prs)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
@@ -9,8 +9,8 @@ I'm from Bangalore, India, and I've recently been falling in love with Design an
 ### Work Related
 
 - :paperclip: [`Resume-latex`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf) [`Resume-figma`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume_figma.pdf)
-- :white_heart: [Portfolio Website](https://milindmishra.me)
-- :email: milind.mishra4@gmail.com
+- :white_heart: [`Portfolio Website`](https://milindmishra.me)
+- :email: `milind.mishra4@gmail.com`
 
 ### Profile Visits
 
