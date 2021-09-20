@@ -37,5 +37,5 @@ I'm an `Electronics and Communication Engineer` from `Bangalore, India`, and I'v
 ![](https://socialify.git.ci/thatbeautifuldream/thatbeautifuldream/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
 <div align="center">
-  <img width="100%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
+  <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
 </div>
