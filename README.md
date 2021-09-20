@@ -28,9 +28,9 @@
 
 ### Work Related
 
-- :paperclip: [`Resume-latex`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf) [`Resume-figma`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume_figma.pdf)
-- :white_heart: [`Portfolio Website`](https://milindmishra.me)
-- :email: `milind.mishra4@gmail.com`
+#### - :paperclip: [`Resume-latex ☕️`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf) [`Resume-figma 🚀`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume_figma.pdf)
+#### - :white_heart: [`Portfolio Website 👨🏻‍💻`](https://milindmishra.me)
+#### - :email: `milind.mishra4@gmail.com 📮`
 
 ### Repository
 
