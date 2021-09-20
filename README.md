@@ -2,23 +2,6 @@
 
 I'm an `Electronics and Communication Engineer` from `Bangalore, India`, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
-### GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
-</div>
-
-### Work Related
-
-- :paperclip: [`Resume-latex`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf) [`Resume-figma`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume_figma.pdf)
-- :white_heart: [`Portfolio Website`](https://milindmishra.me)
-- :email: `milind.mishra4@gmail.com`
-
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream)
-
 ### Follow on Social Networks
 
   <a href="https://www.linkedin.com/company/milind--mishra/">
@@ -36,8 +19,23 @@ I'm an `Electronics and Communication Engineer` from `Bangalore, India`, and I'v
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
   </a>&ensp;
 
-### Repository
+### GitHub Stats
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
+</div>
 
+### Work Related
+
+- :paperclip: [`Resume-latex`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf) [`Resume-figma`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume_figma.pdf)
+- :white_heart: [`Portfolio Website`](https://milindmishra.me)
+- :email: `milind.mishra4@gmail.com`
+
+### Repository
 
 ![](https://socialify.git.ci/thatbeautifuldream/thatbeautifuldream/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
+<div align="center">
+  <img width="100%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
+</div>
