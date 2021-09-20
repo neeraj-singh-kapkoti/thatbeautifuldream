@@ -8,7 +8,7 @@ I'm from Bangalore, India, and I've recently been falling in love with Design an
 
 ### Work Related
 
-- :paperclip: [Resume-1](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf) [Resume-2](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume_figma.pdf)
+- :paperclip: [`Resume-latex`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf) [`Resume-figma`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume_figma.pdf)
 - :white_heart: [Portfolio Website](https://milindmishra.me)
 - :email: milind.mishra4@gmail.com
 
