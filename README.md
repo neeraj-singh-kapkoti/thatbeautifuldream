@@ -2,8 +2,8 @@
 
 I'm an `Electronics and Communication Engineer` from `Bangalore, India`, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&count_private=true&theme=tokyonight&hide=contribs,prs)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&count_private=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&show_icons=true&count_private=true&theme=tokyonight)
 [![Milind's github activity graph](https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github)](https://github.com/thatbeautifuldream/github-readme-activity-graph)
 
 ### Work Related
@@ -37,3 +37,4 @@ I'm an `Electronics and Communication Engineer` from `Bangalore, India`, and I'v
 
 
 ![](https://socialify.git.ci/thatbeautifuldream/thatbeautifuldream/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Dark)
+
