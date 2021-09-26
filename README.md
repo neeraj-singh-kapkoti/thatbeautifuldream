@@ -4,7 +4,7 @@
 
 ### Follow on Social Networks
 
-  <a href="https://www.linkedin.com/company/milind--mishra/">
+  <a href="https://www.linkedin.com/in/milind--mishra/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
   </a>&ensp;
 
