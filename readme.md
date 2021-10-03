@@ -4,6 +4,7 @@
 
 ### Follow on Social Networks
 
+<div align="center">
   <a href="https://www.linkedin.com/in/milind--mishra/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
   </a>&ensp;
@@ -18,6 +19,7 @@
   <a href="https://www.youtube.com/channel/UCMG4BahZvx70a8fsRcczVpA">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
   </a>&ensp;
+</div>
 
 ### GitHub Stats
 <div align="center">
@@ -39,4 +41,3 @@
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
 </div>
-
