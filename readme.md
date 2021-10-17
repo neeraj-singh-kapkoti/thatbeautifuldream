@@ -2,8 +2,6 @@
 
 #### I'm an `Electronics and Communication Engineer` from `Bangalore, India`, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
-![banner](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/images/banner-animation.gif)
-
 ### Follow on Social Networks
 
 <div align="center">
@@ -29,6 +27,14 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
 </div>
+
+### Latest Youtube Feed
+* ### [Git and GitHub for noobs](https://youtu.be/4eUZnxUd228)
+![git](https://user-images.githubusercontent.com/28717686/137639487-0d4dfac6-65ea-4a73-87c3-11c5029628c3.jpg)
+
+* ### [Blogging with Jekyll & GitHub Pages](https://youtu.be/MqCMs8712SI)
+![blog](https://user-images.githubusercontent.com/28717686/137639560-2b504d49-2c69-44d4-b357-67c6a64cfae8.jpg)
+
 
 ### Work Related
 
