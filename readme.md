@@ -2,6 +2,8 @@
 
 #### I'm an `Electronics and Communication Engineer` from `Bangalore, India`, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
+![banner](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/images/banner-animation.gif)
+
 ### Follow on Social Networks
 
 <div align="center">
