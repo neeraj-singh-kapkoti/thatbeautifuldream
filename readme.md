@@ -28,12 +28,18 @@
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
 </div>
 
-### Latest Youtube Feed
-* ### [Git and GitHub for noobs](https://youtu.be/4eUZnxUd228)
-![git](https://user-images.githubusercontent.com/28717686/137639487-0d4dfac6-65ea-4a73-87c3-11c5029628c3.jpg)
+### Latest [Youtube Feed](https://youtube.com/channel/UCMG4BahZvx70a8fsRcczVpA) :hearts:
+<details>
+  <summary>Git and GitHub for noobs</summary>
+  <a href="https://www.youtube.com/watch?v=4eUZnxUd228">:pushpin: Video Link</a>
+  <img src="https://user-images.githubusercontent.com/28717686/137639487-0d4dfac6-65ea-4a73-87c3-11c5029628c3.jpg" />
+</b></details>
 
-* ### [Blogging with Jekyll & GitHub Pages](https://youtu.be/MqCMs8712SI)
-![blog](https://user-images.githubusercontent.com/28717686/137639560-2b504d49-2c69-44d4-b357-67c6a64cfae8.jpg)
+<details>
+<summary>Blogging with Jekyll & GitHub Pages</summary>
+  <a href="https://www.youtube.com/watch?v=MqCMs8712SI&t=534s">:pushpin: Video Link</a>
+  <img src="https://user-images.githubusercontent.com/28717686/137639560-2b504d49-2c69-44d4-b357-67c6a64cfae8.jpg"/> 
+</b></details>
 
 
 ### Work Related
