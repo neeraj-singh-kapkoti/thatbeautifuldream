@@ -13,7 +13,7 @@
 5. 🎉 Merged PR [#40](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/40) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
-### Follow on Social Networks
+### :dizzy: Follow on Social Networks
 
 <div align="center">
   <a href="https://www.linkedin.com/in/milind--mishra/">
