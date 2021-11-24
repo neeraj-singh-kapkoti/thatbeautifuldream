@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/46) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-2. 🎉 Merged PR [#45](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/45) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-3. 🎉 Merged PR [#44](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/44) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-4. 🎉 Merged PR [#43](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/43) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-5. 🎉 Merged PR [#42](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/42) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+1. 🎉 Merged PR [#47](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/47) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+2. 🎉 Merged PR [#46](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/46) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+3. 🎉 Merged PR [#45](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/45) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+4. 🎉 Merged PR [#44](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/44) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+5. 🎉 Merged PR [#43](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/43) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
 ### :dizzy: Follow on Social Networks
