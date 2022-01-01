@@ -53,7 +53,7 @@
 
 ### :point_down: GitPic 
 
-![](https://socialify.git.ci/thatbeautifuldream/thatbeautifuldream/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Dark)
+![thatbeautifuldream](https://socialify.git.ci/thatbeautifuldream/thatbeautifuldream/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
 
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
