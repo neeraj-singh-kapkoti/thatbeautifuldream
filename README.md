@@ -60,7 +60,7 @@
 
 #### - :paperclip: [`Resume`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf)
 
-#### - :email: [`milind.mishra4@gmail.com 📮`](mailto:milind.mishra4@gmail.com)
+#### - :email: [`Here`](mailto:milind.mishra4@gmail.com)
 
 ### Repository
 
