@@ -51,7 +51,7 @@
 
 </b></details>
 
-### GitPic :point_right:
+### GitPic :point_down:
 
 ![](https://socialify.git.ci/thatbeautifuldream/thatbeautifuldream/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
