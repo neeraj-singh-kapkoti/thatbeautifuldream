@@ -60,9 +60,7 @@
 
 #### - :paperclip: [`Resume`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf)
 
-#### - :white_heart: [`Links 🔗`](https://milind.bio.link) [`Portfolio Website 👨🏻‍💻`](https://milind-resume.vercel.app/)
-
-#### - :email: `milind.mishra4@gmail.com 📮`
+#### - :email: [`milind.mishra4@gmail.com 📮`][mailto:milind.mishra4@gmail.com]
 
 ### Repository
 
