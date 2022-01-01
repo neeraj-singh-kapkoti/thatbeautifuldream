@@ -1,14 +1,13 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Milind!](https://thatbeautifuldream.github.io) 
-
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Milind!](https://thatbeautifuldream.github.io)
 
 ![banner](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/images/optimized-banner-inverted.jpg)
 
 #### I'm an `Electronics and Communication Engineer` from `Bangalore, India`, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
 
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#47](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/47) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 2. 🎉 Merged PR [#46](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/46) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 3. 🎉 Merged PR [#45](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/45) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
@@ -36,6 +35,7 @@
 </div>
 
 ### GitHub Stats
+
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
@@ -43,6 +43,7 @@
 </div>
 
 ### Latest [Youtube Feed](https://youtube.com/channel/UCMG4BahZvx70a8fsRcczVpA) :hearts:
+
 <details>
   <summary>Git and GitHub for noobs</summary>
   <a href="https://www.youtube.com/watch?v=4eUZnxUd228">:pushpin: Video Link</a>
@@ -55,11 +56,12 @@
   <img src="https://user-images.githubusercontent.com/28717686/137639560-2b504d49-2c69-44d4-b357-67c6a64cfae8.jpg"/> 
 </b></details>
 
-
 ### Work Related
 
-#### - :paperclip: [`Resume-latex ☕️`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf) [`Resume-figma 🚀`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume_figma.pdf)
-#### - :white_heart: [`Links 🔗`](https://milind.bio.link) [`Portfolio Website 👨🏻‍💻`](https://milind-resume.vercel.app/) 
+#### - :paperclip: [`Resume`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf)
+
+#### - :white_heart: [`Links 🔗`](https://milind.bio.link) [`Portfolio Website 👨🏻‍💻`](https://milind-resume.vercel.app/)
+
 #### - :email: `milind.mishra4@gmail.com 📮`
 
 ### Repository
