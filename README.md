@@ -58,9 +58,10 @@
 
 ### Work Related
 
-#### - :paperclip: [`Resume`](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/milind_resume.pdf)
+<details>
+<summary>My Resume</summary>
 
-#### - :email: [`Here`](mailto:milind.mishra4@gmail.com)
+</b></details>
 
 ### Repository
 
