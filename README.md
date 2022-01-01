@@ -47,7 +47,7 @@
 ### Work Related
 
 <details>
-<summary>My Resume</summary>
+<summary>Résumé</summary>
 
 </b></details>
 
