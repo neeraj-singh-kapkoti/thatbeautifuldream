@@ -23,13 +23,24 @@
    <!--END_SECTION:activity-->
    </details>
 
-### Connect with me:
+### :dizzy: Follow on Social Networks
 
-[<img align="left" alt="thatbeautifuldream" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="thatbeautifuldream | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="thatbeautifuldream | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="thatbeautifuldream | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="thatbeautifuldream | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<div align="center">
+  <a href="https://www.linkedin.com/in/milind--mishra/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
+  </a>&ensp;
+
+  <a href="https://twitter.com/dryruncatch/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
+  </a>&ensp;
+
+  <a href="https://www.instagram.com/that_beautifuldream/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
+  </a>&ensp;
+  <a href="https://www.youtube.com/milindmishra">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
+  </a>&ensp;
+</div>
 
 ### GitHub Stats
 
