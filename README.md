@@ -23,7 +23,6 @@
    <!--END_SECTION:activity-->
    </details>
 
-
 ### Connect with me:
 
 [<img align="left" alt="thatbeautifuldream" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -31,7 +30,6 @@
 [<img align="left" alt="thatbeautifuldream | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="thatbeautifuldream | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thatbeautifuldream | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 ### GitHub Stats
 
@@ -70,5 +68,4 @@
 [youtube]: https://youtube.com/milindmishra
 [instagram]: https://instagram.com/that_beautifuldream
 [linkedin]: https://linkedin.com/in/milind--mishra
-
-[course] : https://github.com/thatbeautifuldream/pepcoding-dsa
+[course]: https://github.com/thatbeautifuldream/pepcoding-dsa
