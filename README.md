@@ -29,14 +29,6 @@
   </a>&ensp;
 </div>
 
-### GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
-</div>
-
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -47,6 +39,14 @@
 4. 🎉 Merged PR [#59](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/59) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 5. 🎉 Merged PR [#60](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/60) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
+
+### GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
+</div>
 
 ### 📺 Latest [YouTube][youtube] Videos
 
