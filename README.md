@@ -58,10 +58,6 @@
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/b1ac7176-55f8-446f-b73b-38c12d54c734.png" /></a>
 </br></details>
 
-### :point_down: GitPic 
-
-![thatbeautifuldream](https://socialify.git.ci/thatbeautifuldream/thatbeautifuldream/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
-
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
 </div>
