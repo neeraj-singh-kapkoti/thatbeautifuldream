@@ -40,7 +40,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
-  <figure><embed src="https://wakatime.com/share/@milindmishra/079d0670-b042-4ed8-875d-7c7b83b0951b.svg"></embed></figure>
 </div>
 
 
@@ -50,9 +49,14 @@
 ### Work Related
 
 <details>
-<summary>Résumé</summary>
+<summary>🖇 Résumé</summary>
   <img src="https://user-images.githubusercontent.com/28717686/147859171-3bcc946a-f68d-408c-81a7-2c7ab24ee35c.png" alt="resume" >
 </b></details>
+
+<details>
+    <summary>📊 Coding Activity </summary>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/b1ac7176-55f8-446f-b73b-38c12d54c734.png" /></a>
+</br></details>
 
 ### :point_down: GitPic 
 
