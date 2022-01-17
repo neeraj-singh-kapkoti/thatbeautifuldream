@@ -51,7 +51,6 @@
 ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
-
 - [Blogging with Jekyll &amp; GitHub Pages](https://www.youtube.com/watch?v=MqCMs8712SI)
 - [The noobs guide to Git &amp; GitHub | Version Control Systems](https://www.youtube.com/watch?v=4eUZnxUd228)
 - [L-03 : C/C++ Basic Concepts - II | Data Structures and Algorithms](https://www.youtube.com/watch?v=-TJPgldrNFY)
