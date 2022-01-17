@@ -36,8 +36,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
 </div>
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 
@@ -46,12 +46,12 @@
 3. 🎉 Merged PR [#45](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/45) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 4. 🎉 Merged PR [#44](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/44) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 5. 🎉 Merged PR [#43](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/43) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-   <!--END_SECTION:activity-->
-   </details>
+<!--END_SECTION:activity-->
 
 ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
+
 - [Blogging with Jekyll &amp; GitHub Pages](https://www.youtube.com/watch?v=MqCMs8712SI)
 - [The noobs guide to Git &amp; GitHub | Version Control Systems](https://www.youtube.com/watch?v=4eUZnxUd228)
 - [L-03 : C/C++ Basic Concepts - II | Data Structures and Algorithms](https://www.youtube.com/watch?v=-TJPgldrNFY)
