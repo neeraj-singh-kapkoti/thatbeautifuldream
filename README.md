@@ -41,12 +41,22 @@
 
 <!--START_SECTION:activity-->
 
+<<<<<<< HEAD
 1. 🎉 Merged PR [#47](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/47) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 2. 🎉 Merged PR [#46](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/46) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 3. 🎉 Merged PR [#45](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/45) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 4. 🎉 Merged PR [#44](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/44) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 5. 🎉 Merged PR [#43](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/43) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
+=======
+1. 🎉 Merged PR [#2](https://github.com/thatbeautifuldream/pepcoding-dsa/pull/2) in [thatbeautifuldream/pepcoding-dsa](https://github.com/thatbeautifuldream/pepcoding-dsa)
+2. 🎉 Merged PR [#63](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/63) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+3. 🎉 Merged PR [#64](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/64) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+4. 🎉 Merged PR [#59](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/59) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+5. 🎉 Merged PR [#60](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/60) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+   <!--END_SECTION:activity-->
+   </details>
+>>>>>>> ae66ed83939ffde9370859c818b55792f76333d9
 
 ### 📺 Latest [YouTube][youtube] Videos
 
