@@ -4,7 +4,7 @@
 
 ## I'm an Electronics and Communication Engineer from Bangalore, India.
 
-- 🔭 I'm currently working on [Data Structures and Algorithms!][course]!
+- 🔭 I'm currently working on [Data Structures and Algorithms][course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
