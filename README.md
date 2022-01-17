@@ -2,9 +2,26 @@
 
 ![banner](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/images/optimized-banner-inverted.jpg)
 
-#### I'm an `Electronics and Communication Engineer` from `Bangalore, India`, and I've recently been falling in love with Design and Development. I really enjoy learning languages and Web Development frameworks like React.
+## I'm an `Electronics and Communication Engineer` from `Bangalore, India`.
 
-### :zap: Recent Activity
+- 🔭 I'm currently working on [Data Structures and Algorithms!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love anime 🍿
+
+### Connect with me:
+
+[<img align="left" alt="thatbeautifuldream" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="thatbeautifuldream | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="thatbeautifuldream | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="thatbeautifuldream | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="thatbeautifuldream | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 
@@ -15,24 +32,7 @@
 5. 🎉 Merged PR [#43](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/43) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
-### :dizzy: Follow on Social Networks
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/milind--mishra/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
-  </a>&ensp;
-
-  <a href="https://twitter.com/dryruncatch/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
-  </a>&ensp;
-
-  <a href="https://www.instagram.com/that_beautifuldream/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
-  </a>&ensp;
-  <a href="https://www.youtube.com/milindmishra">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
-  </a>&ensp;
-</div>
+</details>
 
 ### GitHub Stats
 
@@ -42,9 +42,13 @@
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
 </div>
 
+### 📺 Latest [YouTube][youtube] Videos
 
+<!-- YOUTUBE:START -->
 
-### :zap: Latest [Youtube Activity](https://youtube.com/milindmishra) :hearts:
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
 
 ### Work Related
 
@@ -58,7 +62,14 @@
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/b1ac7176-55f8-446f-b73b-38c12d54c734.png" /></a>
 </br></details>
 
-
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
 </div>
+
+[website]: https://thatbeautifuldream.github.io/
+[twitter]: https://twitter.com/dryruncatch
+[youtube]: https://youtube.com/milindmishra
+[instagram]: https://instagram.com/that_beautifuldream
+[linkedin]: https://linkedin.com/in/milind--mishra
+
+[course] : https://github.com/thatbeautifuldream/pepcoding-dsa
