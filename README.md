@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/main/images/optimized-banner-inverted.jpg)
 
-## I'm an `Electronics and Communication Engineer` from `Bangalore, India`.
+## I'm an Electronics and Communication Engineer from Bangalore, India.
 
 - 🔭 I'm currently working on [Data Structures and Algorithms!][course]!
 - 🌱 I’m currently learning everything 🤣
