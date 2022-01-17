@@ -40,7 +40,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
+  <figure><embed src="https://wakatime.com/share/@milindmishra/079d0670-b042-4ed8-875d-7c7b83b0951b.svg"></embed></figure>
 </div>
+
+
 
 ### :zap: Latest [Youtube Activity](https://youtube.com/milindmishra) :hearts:
 
