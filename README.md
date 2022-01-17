@@ -18,7 +18,7 @@
 [<img align="left" alt="thatbeautifuldream | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thatbeautifuldream | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<div>
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -29,9 +29,9 @@
 3. 🎉 Merged PR [#45](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/45) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 4. 🎉 Merged PR [#44](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/44) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 5. 🎉 Merged PR [#43](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/43) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-<!--END_SECTION:activity-->
-
-</details>
+   <!--END_SECTION:activity-->
+   </details>
+   </div>
 
 ### GitHub Stats
 
