@@ -21,9 +21,15 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
   </a>&ensp;
 
+  <a href="https://www.npmjs.com/~milind-mishra">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" target="_blank"/>
+  </a>&ensp;
+
+  
   <a href="https://www.instagram.com/that_beautifuldream/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
   </a>&ensp;
+  
   <a href="https://www.youtube.com/milindmishra">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
   </a>&ensp;
