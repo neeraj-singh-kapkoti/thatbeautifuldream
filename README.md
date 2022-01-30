@@ -39,7 +39,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/thatbeautifuldream/pepcoding-dsa/pull/2) in [thatbeautifuldream/pepcoding-dsa](https://github.com/thatbeautifuldream/pepcoding-dsa)
+1. 🗣 Commented on [#65](https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues/65) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 2. 🎉 Merged PR [#63](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/63) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 3. 🎉 Merged PR [#64](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/64) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 4. 🎉 Merged PR [#59](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/59) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
