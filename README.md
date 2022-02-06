@@ -39,11 +39,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#65](https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues/65) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-2. 🎉 Merged PR [#63](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/63) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-3. 🎉 Merged PR [#64](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/64) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-4. 🎉 Merged PR [#59](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/59) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-5. 🎉 Merged PR [#60](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/60) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+1. ❗️ Closed issue [#49](https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues/49) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+2. ❗️ Closed issue [#69](https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues/69) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+3. 🗣 Commented on [#69](https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues/69) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+4. 🎉 Merged PR [#68](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/68) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+5. 🎉 Merged PR [#67](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/67) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
