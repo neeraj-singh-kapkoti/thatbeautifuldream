@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love anime 🍿
 
-### :dizzy: Follow on Social Networks
+### :dizzy: Connect on Networks
 
 <div align="center">
   <a href="https://www.linkedin.com/in/milind--mishra/">
