@@ -33,6 +33,11 @@
   <a href="https://www.youtube.com/milindmishra">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
   </a>&ensp;
+  
+  <a href="https://resume.github.io/?thatbeautifuldream">
+    <img width="30px" src="  https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" target="_blank"/>
+  </a>&ensp;
+
 </div>
 
 ### :zap: Recent GitHub Activity
@@ -46,7 +51,7 @@
 5. 🎉 Merged PR [#67](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/67) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
-### GitHub Stats
+### GitHub Stats 
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
