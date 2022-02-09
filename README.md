@@ -25,6 +25,9 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" target="_blank"/>
   </a>&ensp;
 
+  <a href="https://resume.github.io/?thatbeautifuldream">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" target="_blank"/>
+  </a>&ensp;
   
   <a href="https://www.instagram.com/that_beautifuldream/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
@@ -32,10 +35,6 @@
   
   <a href="https://www.youtube.com/milindmishra">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
-  </a>&ensp;
-  
-  <a href="https://resume.github.io/?thatbeautifuldream">
-    <img width="30px" src="  https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" target="_blank"/>
   </a>&ensp;
 
 </div>
