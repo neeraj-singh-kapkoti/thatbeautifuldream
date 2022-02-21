@@ -83,12 +83,9 @@
 </br></details>
 
 
-### RSS feed:
-
-<!--START_SECTION:feed-->
-...
-<!--END_SECTION:feed-->
-
+## My Blog
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
