@@ -83,7 +83,7 @@
 </br></details>
 
 
-## Blog posts
+### 🧠 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://milindmishra.me/higher-order-functions-ii-and-beyond)
 - [Js Concepts 💊](https://milindmishra.me/js-concepts)
