@@ -74,7 +74,7 @@
 
 <details>
 <summary>🖇 Résumé</summary>
-  <img src="https://user-images.githubusercontent.com/28717686/147859171-3bcc946a-f68d-408c-81a7-2c7ab24ee35c.png" alt="resume" >
+  <img src="https://user-images.githubusercontent.com/28717686/155116302-2ef43977-f178-4e1b-b7a8-6b1dc7dd6ff7.png" alt="resume" >
 </b></details>
 
 <details>
