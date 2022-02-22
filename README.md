@@ -83,9 +83,10 @@
 </br></details>
 
 
-## My Blog
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
