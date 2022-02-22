@@ -91,7 +91,7 @@
 - [Getting Started 🔥](https://milindmishra.me/getting-started-js)
 <!-- BLOG-POST-LIST:END -->
 
-⚡️ ...read more [here](https://milindmishra.me/)
+⚡️ [read more here...](https://milindmishra.me/)
 
 
 <div align="center">
