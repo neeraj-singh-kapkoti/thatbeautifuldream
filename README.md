@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love anime 🍿
 
-### :dizzy: Follow on Social Networks
+### :dizzy: Connect on Networks
 
 <div align="center">
   <a href="https://www.linkedin.com/in/milind--mishra/">
@@ -21,26 +21,36 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
   </a>&ensp;
 
+  <a href="https://www.npmjs.com/~milind-mishra">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" target="_blank"/>
+  </a>&ensp;
+
+  <a href="https://resume.github.io/?thatbeautifuldream">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" target="_blank"/>
+  </a>&ensp;
+  
   <a href="https://www.instagram.com/that_beautifuldream/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
   </a>&ensp;
+  
   <a href="https://www.youtube.com/milindmishra">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
   </a>&ensp;
+
 </div>
 
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/thatbeautifuldream/pepcoding-dsa/pull/2) in [thatbeautifuldream/pepcoding-dsa](https://github.com/thatbeautifuldream/pepcoding-dsa)
-2. 🎉 Merged PR [#63](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/63) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-3. 🎉 Merged PR [#64](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/64) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-4. 🎉 Merged PR [#59](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/59) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-5. 🎉 Merged PR [#60](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/60) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+1. 🗣 Commented on [#73](https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues/73) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+2. 🎉 Merged PR [#71](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/71) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+3. 🎉 Merged PR [#70](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/70) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+4. 🎉 Merged PR [#68](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/68) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+5. 🎉 Merged PR [#67](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/67) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
-### GitHub Stats
+### GitHub Stats 
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
@@ -71,6 +81,11 @@
     <summary>📊 Coding Activity </summary>
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/b1ac7176-55f8-446f-b73b-38c12d54c734.png" /></a>
 </br></details>
+
+
+## My Blog
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
