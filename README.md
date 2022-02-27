@@ -79,7 +79,7 @@
 
 <details>
     <summary>📊 Coding Activity </summary>
-      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/b1ac7176-55f8-446f-b73b-38c12d54c734.png" /></a>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/58e630dc-3fd2-4a17-b7ad-e631c90b7bb4.png" /></a>
 </br></details>
 
 <details>
