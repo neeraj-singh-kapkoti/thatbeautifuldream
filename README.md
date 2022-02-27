@@ -82,6 +82,11 @@
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/b1ac7176-55f8-446f-b73b-38c12d54c734.png" /></a>
 </br></details>
 
+<details>
+    <summary>🚀 Language Usage</summary>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/558cb569-454a-4002-9ac7-41d99600101e.png" /></a>
+</br></details>
+
 
 ### 🧠 Blog posts
 <!-- BLOG-POST-LIST:START -->
