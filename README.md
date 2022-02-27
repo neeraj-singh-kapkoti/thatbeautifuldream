@@ -98,6 +98,7 @@
 
 ⚡️ [read more here...](https://milindmishra.me/)
 
+![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg) 
 
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
