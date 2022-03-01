@@ -57,9 +57,11 @@
 ### GitHub Stats 
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
+  <a href="https://abclinks.vercel.app/" >
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatbeautifuldream&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  </a>
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
 ### 📺 Latest [YouTube][youtube] Videos
