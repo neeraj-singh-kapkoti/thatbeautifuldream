@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![banner](./images/gh-header.png)
+![banner](assets/images/light-banner-small.png)
 
 ## I'm an Electronics and Communication Engineer from Bangalore, India.
 
@@ -54,7 +54,7 @@
 5. 🎉 Merged PR [#67](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/67) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
-### GitHub Stats 
+### GitHub Stats
 
 <div align="center">
   <a href="https://milind.bio.link/" >
@@ -67,6 +67,7 @@
 ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
+
 - [Blogging with Jekyll &amp; GitHub Pages](https://www.youtube.com/watch?v=MqCMs8712SI)
 - [The noobs guide to Git &amp; GitHub | Version Control Systems](https://www.youtube.com/watch?v=4eUZnxUd228)
 - [L-03 : C/C++ Basic Concepts - II | Data Structures and Algorithms](https://www.youtube.com/watch?v=-TJPgldrNFY)
@@ -93,18 +94,19 @@
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/558cb569-454a-4002-9ac7-41d99600101e.png" /></a>
 </br></details>
 
-
 ### 🧠 Blog posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://milindmishra.me/higher-order-functions-ii-and-beyond)
 - [Js Concepts 💊](https://milindmishra.me/js-concepts)
-- [👑 Higher Order Functions  &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
+- [👑 Higher Order Functions &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
 - [Getting Started 🔥](https://milindmishra.me/getting-started-js)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ [read more here...](https://milindmishra.me/)
 
-![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg) 
+![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
