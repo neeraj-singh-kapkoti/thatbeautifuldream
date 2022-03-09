@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![banner](assets/images/light-banner-small.png)
+![banner](assets/images/light-banner.png)
 
 ## I'm an Electronics and Communication Engineer from Bangalore, India.
 
@@ -97,9 +97,10 @@
 ### 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://milindmishra.me/higher-order-functions-ii-and-beyond)
 - [Js Concepts 💊](https://milindmishra.me/js-concepts)
-- [👑 Higher Order Functions  &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
+- [👑 Higher Order Functions &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
 - [Getting Started 🔥](https://milindmishra.me/getting-started-js)
 <!-- BLOG-POST-LIST:END -->
 
