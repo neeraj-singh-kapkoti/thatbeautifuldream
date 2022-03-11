@@ -67,7 +67,6 @@
 ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
-
 - [Blogging with Jekyll &amp; GitHub Pages](https://www.youtube.com/watch?v=MqCMs8712SI)
 - [The noobs guide to Git &amp; GitHub | Version Control Systems](https://www.youtube.com/watch?v=4eUZnxUd228)
 - [L-03 : C/C++ Basic Concepts - II | Data Structures and Algorithms](https://www.youtube.com/watch?v=-TJPgldrNFY)
@@ -97,10 +96,9 @@
 ### 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://milindmishra.me/higher-order-functions-ii-and-beyond)
 - [Js Concepts 💊](https://milindmishra.me/js-concepts)
-- [👑 Higher Order Functions &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
+- [👑 Higher Order Functions  &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
 - [Getting Started 🔥](https://milindmishra.me/getting-started-js)
 <!-- BLOG-POST-LIST:END -->
 
