@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey%2C+nice+to+see+you!;I'm+currently+looking+for+internships+%F0%9F%98%93)](http://in.milind.live)
 
 ![banner](assets/images/banner.png)
 
