@@ -73,11 +73,11 @@
 ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
+- [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://www.youtube.com/watch?v=HTXQw5ZjE7U)
 - [Blogging with Jekyll &amp; GitHub Pages](https://www.youtube.com/watch?v=MqCMs8712SI)
 - [The noobs guide to Git &amp; GitHub | Version Control Systems](https://www.youtube.com/watch?v=4eUZnxUd228)
 - [L-03 : C/C++ Basic Concepts - II | Data Structures and Algorithms](https://www.youtube.com/watch?v=-TJPgldrNFY)
 - [L-02 : Basic C/C++ Concepts - I | Data Structures and Algorithms](https://www.youtube.com/watch?v=A0Qb6pvUKhE)
-- [L-01 : Basic DSA Overview | Data Structures and Algorithms](https://www.youtube.com/watch?v=likT4uthnU0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
