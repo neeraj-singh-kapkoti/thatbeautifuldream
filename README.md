@@ -102,6 +102,7 @@
 ### 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://milindmishra.me/price-tracker)
 - [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://milindmishra.me/higher-order-functions-ii-and-beyond)
 - [Js Concepts 💊](https://milindmishra.me/js-concepts)
 - [👑 Higher Order Functions  &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
