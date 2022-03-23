@@ -69,6 +69,11 @@
   </a>
 </div>
 
+<details>
+    <summary>📊 More Metrics </summary>
+      <a href="https://milind.live"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
+</br></details>
+
 
 ### 📺 Latest [YouTube][youtube] Videos
 
