@@ -1327,7 +1327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Leaflet/Leaflet</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦</div>
@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rdegges/ipify-api</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A public IP API service.</div>
@@ -1433,7 +1433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>msalman81/2048</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">One of everyone's favorite classics! A practice for me to work with Javascript DOM and Bootstrap and relate to UI/UX elements!</div>
@@ -1480,7 +1480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/nextjs-portfolio-starter</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily create a portfolio with Next.js and Markdown.</div>
@@ -1608,7 +1608,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Mar 2022, 09:43:07 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 26 Mar 2022, 10:40:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
