@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey%2C+nice+to+see+you!;I'm+currently+looking+for+internships+%F0%9F%98%93)](http://in.milind.live)
 
 ![banner](assets/images/banner.png)
 
@@ -62,14 +62,27 @@
   </a>
 </div>
 
+
+<div align="center">
+  <a href="https://milind.bio.link/" >
+    <img src = "http://github-readme-streak-stats.herokuapp.com?user=thatbeautifuldream&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
+  </a>
+</div>
+
+<details>
+    <summary>📊 More Metrics </summary>
+      <a href="https://milind.live"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
+</br></details>
+
+
 ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
+- [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://www.youtube.com/watch?v=HTXQw5ZjE7U)
 - [Blogging with Jekyll &amp; GitHub Pages](https://www.youtube.com/watch?v=MqCMs8712SI)
 - [The noobs guide to Git &amp; GitHub | Version Control Systems](https://www.youtube.com/watch?v=4eUZnxUd228)
 - [L-03 : C/C++ Basic Concepts - II | Data Structures and Algorithms](https://www.youtube.com/watch?v=-TJPgldrNFY)
 - [L-02 : Basic C/C++ Concepts - I | Data Structures and Algorithms](https://www.youtube.com/watch?v=A0Qb6pvUKhE)
-- [L-01 : Basic DSA Overview | Data Structures and Algorithms](https://www.youtube.com/watch?v=likT4uthnU0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -94,6 +107,7 @@
 ### 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://milindmishra.me/price-tracker)
 - [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://milindmishra.me/higher-order-functions-ii-and-beyond)
 - [Js Concepts 💊](https://milindmishra.me/js-concepts)
 - [👑 Higher Order Functions  &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
