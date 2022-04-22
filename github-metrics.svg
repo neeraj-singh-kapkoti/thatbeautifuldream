@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>airbnb/lottie-web</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/</div>
@@ -1369,7 +1369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rampatra/Algorithms-and-Data-Structures-in-Java</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Algorithms and Data Structures in Java</div>
@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swc-project/swc</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust-based platform for the Web</div>
@@ -1475,7 +1475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reduxjs/redux-devtools</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DevTools for Redux with hot reloading, action replay, and customizable UI</div>
@@ -1602,7 +1602,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2022, 03:41:30 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 23 Apr 2022, 04:41:17 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
