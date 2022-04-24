@@ -1326,7 +1326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsonhero-io/jsonhero-web</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSON Hero is an open-source, beautiful JSON viewer for the web that lets you browse, search and navigate your JSON files at speed. 🚀</div>
@@ -1612,7 +1612,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Apr 2022, 17:47:26 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Apr 2022, 18:50:25 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
