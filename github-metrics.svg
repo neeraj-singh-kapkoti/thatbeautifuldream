@@ -1401,7 +1401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/zustand</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐻 Bear necessities for state management in React</div>
@@ -1507,7 +1507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wirecard/wirecard.github.io</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wirecard GitHub Pages repository</div>
@@ -1635,7 +1635,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jun 2022, 13:45:42 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 2 Jun 2022, 15:43:43 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
