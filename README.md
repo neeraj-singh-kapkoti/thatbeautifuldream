@@ -31,7 +31,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" target="_blank"/>
   </a>&ensp;
   
-  <a href="https://www.instagram.com/that_beautifuldream/">
+  <a href="https://www.instagram.com/thatbeautifuldream/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
   </a>&ensp;
   
