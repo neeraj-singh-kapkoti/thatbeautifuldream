@@ -1342,7 +1342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dhanishgajjar/vscode-icons</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom Visual Studio Code Icons</div>
@@ -1395,7 +1395,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codeadamca/arduino-from-nodejs</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using JavaScript, Node.js, and an Arduino to communicate from a browser to an Arduino.</div>
@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>socketio/socket.io</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Realtime application framework (Node.JS server)</div>
@@ -1629,7 +1629,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jun 2022, 00:39:21 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 01:42:24 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
