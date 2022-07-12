@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey%2C+nice+to+see+you!;I'm+currently+looking+for+internships+%F0%9F%98%93)](http://in.milind.live)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FD4EDD&width=500&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I'm+looking+for+full-time+roles)](http://in.milind.live)
 
 ![banner](assets/images/banner.png)
 
