@@ -87,6 +87,10 @@
 
 ➡️ [more videos...][youtube]
 
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
+
+
 ### Work Related
 
 <details>
