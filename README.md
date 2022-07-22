@@ -94,11 +94,6 @@
 ### Work Related
 
 <details>
-<summary>🖇 Résumé</summary>
-  <img src="https://user-images.githubusercontent.com/28717686/155116302-2ef43977-f178-4e1b-b7a8-6b1dc7dd6ff7.png" alt="resume" >
-</b></details>
-
-<details>
     <summary>📊 Coding Activity </summary>
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/58e630dc-3fd2-4a17-b7ad-e631c90b7bb4.png" /></a>
 </br></details>
@@ -107,6 +102,12 @@
     <summary>🚀 Language Usage</summary>
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/558cb569-454a-4002-9ac7-41d99600101e.png" /></a>
 </br></details>
+
+<details>
+    <summary>📣 Discord Presence</summary>
+      <a href="https://discord.com/users/451669359866413076"><img src="https://lanyard.cnrad.dev/api/451669359866413076" /></a>
+</br></details>
+
 
 ### 🧠 Blog posts
 
