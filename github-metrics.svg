@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuxt/framework</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Hybrid Vue(3) Framework.</div>
@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuxt/nuxt.js</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Intuitive Vue(2) Framework</div>
@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>majodev/google-webfonts-helper</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets</div>
@@ -1639,7 +1639,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2022, 01:41:50 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 02:40:15 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
