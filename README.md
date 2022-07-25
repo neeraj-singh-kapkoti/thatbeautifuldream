@@ -2,6 +2,11 @@
 
 ![banner](assets/images/banner.png)
 
+### 👨🏻‍🎓 Also, I Recently Graduated!
+
+![graduation-pic](https://user-images.githubusercontent.com/28717686/180855843-7272346e-3136-48f3-be6c-82a0c0326e9b.png)
+
+
 - 🔭 I'm currently working on [Data Structures and Algorithms][course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
