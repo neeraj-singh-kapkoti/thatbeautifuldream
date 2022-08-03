@@ -1343,7 +1343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/headlessui</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</div>
@@ -1396,7 +1396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/tailwindcss</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility-first CSS framework for rapid UI development.</div>
@@ -1449,7 +1449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nodejs/node</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1508,7 +1508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pdeljanov/Symphonia</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pure Rust multimedia format demuxing, tag reading, and audio decoding library</div>
@@ -1642,7 +1642,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Aug 2022, 13:45:41 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 14:41:14 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
