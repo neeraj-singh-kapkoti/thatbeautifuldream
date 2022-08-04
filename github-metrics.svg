@@ -1348,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ionic-team/ionic-framework</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.</div>
@@ -1401,7 +1401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mlynch/nextjs-tailwind-ionic-capacitor-starter</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor</div>
@@ -1448,7 +1448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ionic-team/capacitor</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️</div>
@@ -1501,7 +1501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>preactjs/preact</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM.</div>
@@ -1649,7 +1649,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Aug 2022, 12:40:38 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 4 Aug 2022, 13:47:25 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
