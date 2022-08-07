@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ionic-team/ionic-framework</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.</div>
@@ -1426,7 +1426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mlynch/nextjs-tailwind-ionic-capacitor-starter</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor</div>
@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ionic-team/capacitor</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️</div>
@@ -1628,7 +1628,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 10:40:13 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 11:43:47 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
