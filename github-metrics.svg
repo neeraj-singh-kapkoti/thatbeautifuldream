@@ -1348,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mysterybear/cra-mui</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1396,7 +1396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mui/mui-design-kits</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The public bug tracker for the MUI Design kits.</div>
@@ -1437,7 +1437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mdbootstrap/mdb-react-ui-kit</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React 17 &amp; Bootstrap 5 &amp; Material Design 2.0 UI KIT</div>
@@ -1631,7 +1631,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Aug 2022, 19:05:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Aug 2022, 19:40:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
