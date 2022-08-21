@@ -1320,7 +1320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thatbeautifuldream/js</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Js notes</div>
@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dylanaraps/neofetch</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🖼️  A command-line system information tool written in bash 3.2+</div>
@@ -1414,7 +1414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitpod-io/gitpod</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gitpod automates the provisioning of ready-to-code development environments.</div>
@@ -1467,16 +1467,16 @@
                                     </svg>
                                     <div class="name">
                                         <span>arlyon/stailwc</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An experimental transpiler to bring tailwind macros to SWC 🚀</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
-                                        Rust
+                                        JavaScript
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1595,7 +1595,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Aug 2022, 01:42:12 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 22 Aug 2022, 02:40:24 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
