@@ -1327,7 +1327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubescape/kubescape</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.</div>
@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shopify/react-native-skia</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-performance React Native Graphics using Skia</div>
@@ -1433,7 +1433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parzuko/kamui</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">kamui allows the user to transfer objects to and from another dimension. while we can't really do jutsu, kamui helps you navigate from metro station to another on discord :)</div>
@@ -1480,7 +1480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parzuko/followedby</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ever visit a GitHub profile and wonder — hmm, do we know each other? followedby fetches mutual followers right the profile page!</div>
@@ -1607,7 +1607,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2022, 03:42:20 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 04:41:32 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
