@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1629" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1446" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2493 Commits
+                            2502 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.1187849236963" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="191.1187849236963" y="0" width="102.45967962745137" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="293.5784645511477" y="0" width="98.62173653048752" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="392.2002010816352" y="0" width="20.059776882621335" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="412.25997796425656" y="0" width="19.85321916803021" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="432.1131971322867" y="0" width="11.849359627276133" height="8" fill="#e4cc98"/>
-                    <rect mask="url(#languages-bar)" x="443.96255675956286" y="0" width="8.63763906503611" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="452.6001958245989" y="0" width="7.399804175401013" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.8802530728952" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="190.8802530728952" y="0" width="102.3318015801742" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="293.2120546530694" y="0" width="99.07276611430942" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="392.28482076737885" y="0" width="20.03474064294254" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="412.3195614103214" y="0" width="19.828440729247223" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="432.1480021395686" y="0" width="11.83457065881429" height="8" fill="#e4cc98"/>
+                    <rect mask="url(#languages-bar)" x="443.9825727983829" y="0" width="8.626858586112713" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="452.60943138449556" y="0" width="7.390568615504434" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1332,7 +1332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mantinedev/mantine</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React components library with native dark theme support</div>
@@ -1425,7 +1425,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        441
+                                        442
                                     </div>
                                 </div>
                             </section>
@@ -1556,8 +1556,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4a40ce7</div>
-                                        <div class="message">📦 NEW: changes</div>
+                                        <div class="sha">#1037866</div>
+                                        <div class="message">🐛 FIX: changes</div>
                                     </div>
                                 </div>
                             </section>
@@ -1569,403 +1569,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 65 commits in
-                                        <span class="repo">thatbeautifuldream/next.js</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">thatbeautifuldream/js</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">canary</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7de3cf5</div>
-                                        <div class="message">fix(next-server): Fix priority for edge routes   (#39462)
-
-Fixes #39411
-Bug
-
- Related issues linked using fixes #number
- Integration tests added
- Errors have helpful link attached, see contributing.md
-
-Feature
-
- Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
- Related issues linked using fixes #number
- Integration tests added
- Documentation added
- Telemetry added. In case of a feature if it's used or not.
- Errors have helpful link attached, see contributing.md
-
-Documentation / Examples
-
- Make sure the linting passes by running pnpm lint
- The examples guidelines are followed from our contributing doc
-
-Co-authored-by: JJ Kasper &lt;jj@jjsweb.site&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57b6eff</div>
-                                        <div class="message">Add separate entry per layout/page. (#39611)
-
-Builds on top of #39162 which adds support for creating any kind of bundle path without breaking the compilation.
-Ensures every layout gets a separate client-side bundle if it has client components being used.
-
-Bug
-
- Related issues linked using fixes #number
- Integration tests added
- Errors have helpful link attached, see contributing.md
-
-Feature
-
- Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
- Related issues linked using fixes #number
- Integration tests added
- Documentation added
- Telemetry added. In case of a feature if it's used or not.
- Errors have helpful link attached, see contributing.md
-
-Documentation / Examples
-
- Make sure the linting passes by running pnpm lint
- The examples guidelines are followed from our contributing doc
-
-Co-authored-by: Jiachi Liu &lt;inbox@huozhi.im&gt;
-Co-authored-by: Shu Ding &lt;g@shud.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63a8196</div>
-                                        <div class="message">Refactor base server (#39649)
-
-Closes #39037. Moving `generateRoutes` to each runtime server.
-
-## Bug
-
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Feature
-
-- [ ] Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Documentation added
-- [ ] Telemetry added. In case of a feature if it's used or not.
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Documentation / Examples
-
-- [ ] Make sure the linting passes by running `pnpm lint`
-- [ ] The examples guidelines are followed from [our contributing doc](https://github.com/vercel/next.js/blob/canary/contributing.md#adding-examples)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f00aef4</div>
-                                        <div class="message">Update test failure logging  (#39655)
-
-This attempts to address the missing log outputs noticed in the below test run.
-x-ref: https://github.com/vercel/next.js/runs/7839842437?check_suite_focus=true</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5061167</div>
-                                        <div class="message">Add comment on slash normalizing in server (#39653)
-
-Documentation / Examples
-
- Make sure the linting passes by running pnpm lint
- The examples guidelines are followed from our contributing doc
-
-Co-authored-by: kodiakhq[bot] &lt;49736102+kodiakhq[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f63a49</div>
-                                        <div class="message">fix(next/dynamic): handle template literal import path (#39623)
-
-
-
-## Bug
-
-- [x] fixes #39522 
-- [x] Integration tests added
-- [ ] Errors have helpful link attached, see `contributing.md`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6876bb4</div>
-                                        <div class="message">Enable additional TypeScript ESLint rules (#39640)
-
-Enables some rules that are useful and already pass currently.
-
-
-## Bug
-
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Feature
-
-- [ ] Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Documentation added
-- [ ] Telemetry added. In case of a feature if it's used or not.
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Documentation / Examples
-
-- [ ] Make sure the linting passes by running `pnpm lint`
-- [ ] The examples guidelines are followed from [our contributing doc](https://github.com/vercel/next.js/blob/canary/contributing.md#adding-examples)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d3938b</div>
-                                        <div class="message">[Docs] Update with-slate example (#39639)
-
-
-
-## Changelog
-
-- Migrated `with-slate` example to typescript
-- Updated dependencies to latest stable versions
-- Added api route to demonstrate saving of `editorState`
-
-## Documentation / Examples
-
-- [x] Make sure the linting passes by running `pnpm lint`
-- [x] The examples guidelines are followed from [our contributing doc](https://github.com/vercel/next.js/blob/canary/contributing.md#adding-examples)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a93093</div>
-                                        <div class="message">[Docs] Update with-loading example (#39646)
-
-Changelog
-
-Updated dependencies
-Migrated to Typescript
-Use CSS from npm module
-
-Documentation / Examples
-
- Make sure the linting passes by running pnpm lint
- The examples guidelines are followed from our contributing doc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fd2a7f</div>
-                                        <div class="message">Remove webpack4 types (#39631)
-
-These types are no longer needed as we are only leveraging webpack 5 so this finishes migrating our types away from webpack 4's types.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11bd44f</div>
-                                        <div class="message">Update Convex Example (#39562)
-
-This makes a few changes to the Convex example app.
-We're using this example app in the Convex quick start (https://docs.convex.dev/quick-start), so I want to make sure we're setting new users up for success.
-
-Upgrade to the newest version of Convex (includes adding a tsconfig.json for Convex functions)
-Switch to pinning Convex to latest
-Check in generated code so the example will make more sense to users browsing on GitHub or before they regenerate the code. This required ignoring it in the global .prettierignore
-Add prettier
-Update styling so "Powered by Convex" appears on screen.
-Switch the syntax of one function to make it type check after developers add a schema
-
-Documentation / Examples
-
- Make sure the linting passes by running pnpm lint
- The examples guidelines are followed from our contributing doc
-
-Co-authored-by: JJ Kasper &lt;jj@jjsweb.site&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#059fba2</div>
-                                        <div class="message">Eliminate path and utils from base server (#39622)
-
-`_isLikeServerless` is only needed by the Node.js server.
-
-## Bug
-
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Feature
-
-- [ ] Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Documentation added
-- [ ] Telemetry added. In case of a feature if it's used or not.
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Documentation / Examples
-
-- [ ] Make sure the linting passes by running `pnpm lint`
-- [ ] The examples guidelines are followed from [our contributing doc](https://github.com/vercel/next.js/blob/canary/contributing.md#adding-examples)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f743aa1</div>
-                                        <div class="message">Update strategies count to 4 (#39610)
-
-
-
-## Bug
-
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Feature
-
-- [ ] Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Documentation added
-- [ ] Telemetry added. In case of a feature if it's used or not.
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Documentation / Examples
-
-- [ ] Make sure the linting passes by running `pnpm lint`
-- [ ] The examples guidelines are followed from [our contributing doc](https://github.com/vercel/next.js/blob/canary/contributing.md#adding-examples)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27e0b12</div>
-                                        <div class="message">Add edge ssr to pr stats (#39621)
-
-Monitoring edge-ssr bundle size in PR stats
-
-change the react version in stats-app to 18
-checking size of edge ssr page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f027c2</div>
-                                        <div class="message">Next Server code refactoring (#39591)
-
-Move the route definitions into the conditions and remove unused method.
-
-## Bug
-
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Feature
-
-- [ ] Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Documentation added
-- [ ] Telemetry added. In case of a feature if it's used or not.
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Documentation / Examples
-
-- [ ] Make sure the linting passes by running `pnpm lint`
-- [ ] The examples guidelines are followed from [our contributing doc](https://github.com/vercel/next.js/blob/canary/contributing.md#adding-examples)
-
-
-Co-authored-by: Jiachi Liu &lt;4800338+huozhi@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eff9732</div>
-                                        <div class="message">Remove minify: false for webpack5 bundle (#39620)
-
-As noticed by @shuding we were disabling minifying for the webpack 5 bundle which was most likely left over from debugging which isn't necessary now as we can use the local version of webpack via the NEXT_PRIVATE_LOCAL_WEBPACK5 env variable instead.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4cd8b23</div>
-                                        <div class="message">Enable @typescript-eslint/no-use-before-define for functions (#39602)
-
-Follow-up to the earlier enabling of classes/variables etc.
-
-Bug
-
- Related issues linked using fixes #number
- Integration tests added
- Errors have helpful link attached, see contributing.md
-
-Feature
-
- Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
- Related issues linked using fixes #number
- Integration tests added
- Documentation added
- Telemetry added. In case of a feature if it's used or not.
- Errors have helpful link attached, see contributing.md
-
-Documentation / Examples
-
- Make sure the linting passes by running pnpm lint
- The examples guidelines are followed from our contributing doc
-
-Co-authored-by: Steven &lt;steven@ceriously.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#683db9a</div>
-                                        <div class="message">Support tsconfig paths without baseurl (#34926)
-
-tsconfig behaves differently with `tsc` vs. Next.js. When `baseurl` is omitted, `paths` should be resolved against the tsconfig location. Consequentially, in this case the paths must start with `./`. This PR aligns Next.js behavior with `tsc` around `paths` without `baseurl`. 
-
-Related: https://github.com/microsoft/TypeScript/pull/40101</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0d7ee0</div>
-                                        <div class="message">Fix Edge SSR routes (#39594)
-
-Currently Edge SSR routes are added to both `routedPages` (catch-all page render routes) and `edgeRoutesSet` (catch-all edge function routes). This causes the request to be handled by both and results in an error (the Node server can't execute the Edge SSR route as a regular page). 
-
-Another fix is to make sure Edge Function routes are sorted too, so `/foo` can be caught before dynamic ones like `/[id]`.
-
-## Bug
-
-- [ ] Related issues linked using `fixes #number`
-- [x] Integration tests added
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Feature
-
-- [ ] Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Documentation added
-- [ ] Telemetry added. In case of a feature if it's used or not.
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Documentation / Examples
-
-- [ ] Make sure the linting passes by running `pnpm lint`
-- [ ] The examples guidelines are followed from [our contributing doc](https://github.com/vercel/next.js/blob/canary/contributing.md#adding-examples)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6791e75</div>
-                                        <div class="message">Typo  (#39596)
-
-
-
-## Bug
-
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [x] Errors have helpful link attached, see `contributing.md`
-
-## Feature
-
-- [ ] Implements an existing feature request or RFC. Make sure the feature request has been accepted for implementation before opening a PR.
-- [ ] Related issues linked using `fixes #number`
-- [ ] Integration tests added
-- [ ] Documentation added
-- [ ] Telemetry added. In case of a feature if it's used or not.
-- [ ] Errors have helpful link attached, see `contributing.md`
-
-## Documentation / Examples
-
-- [ ] Make sure the linting passes by running `pnpm lint`
-- [ ] The examples guidelines are followed from [our contributing doc](https://github.com/vercel/next.js/blob/canary/contributing.md#adding-examples)
-
-## Bug was a simple `typo`
-
-![image](https://user-images.githubusercontent.com/28717686/184554656-83594c8e-cfab-4da1-89a2-f98d08ffe03f.png)
-
-
-- Now fixed</div>
+                                        <div class="sha">#be7914a</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1974,11 +1586,18 @@ Another fix is to make sure Edge Function routes are sorted too, so `/foo` can b
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">mantinedev/mantine</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">thatbeautifuldream/js</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8524b2e</div>
+                                        <div class="message">🐛 FIX: changes</div>
                                     </div>
                                 </div>
                             </section>
@@ -1987,11 +1606,18 @@ Another fix is to make sure Edge Function routes are sorted too, so `/foo` can b
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">kubescape/kubescape</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">thatbeautifuldream/js</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#89c749f</div>
+                                        <div class="message">📦 NEW: added</div>
                                     </div>
                                 </div>
                             </section>
@@ -2000,11 +1626,26 @@ Another fix is to make sure Edge Function routes are sorted too, so `/foo` can b
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">Shopify/react-native-skia</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">thatbeautifuldream/js</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#503b307</div>
+                                        <div class="message">🐛 FIX: nuked</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#974cc27</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/thatbeautifuldream/js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03d4c5a</div>
+                                        <div class="message">🐛 FIX: fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -2014,7 +1655,7 @@ Another fix is to make sure Edge Function routes are sorted too, so `/foo` can b
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2022, 01:42:35 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 02:40:42 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
