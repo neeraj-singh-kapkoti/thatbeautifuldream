@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>loopholelabs/frpc-go</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood</div>
@@ -1416,7 +1416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wix/react-native-ui-lib</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UI Components Library for React Native</div>
@@ -1614,7 +1614,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2022, 02:40:27 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 27 Aug 2022, 03:41:23 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
