@@ -83,11 +83,11 @@
 ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
-- [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
 - [flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai](https://www.youtube.com/watch?v=Z7_e6FsuV2s)
 - [Experience as an 1 month UI UX Design Intern @ineuron.ai](https://www.youtube.com/watch?v=TkDtwCcUy1c)
 - [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://www.youtube.com/watch?v=HTXQw5ZjE7U)
 - [Blogging with Jekyll &amp; GitHub Pages](https://www.youtube.com/watch?v=MqCMs8712SI)
+- [The noobs guide to Git &amp; GitHub | Version Control Systems](https://www.youtube.com/watch?v=4eUZnxUd228)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
