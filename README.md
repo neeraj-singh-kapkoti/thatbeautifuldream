@@ -96,7 +96,7 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
 
 
-### Work Related
+### Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
 
 <details>
     <summary>📊 Coding Activity </summary>
