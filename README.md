@@ -83,11 +83,11 @@
 ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
+- [📣 Coding Startup Website Template | NextJs TypeScript TailwindCSS](https://www.youtube.com/watch?v=m7kbXTFm1zg)
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 - [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
 - [flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai](https://www.youtube.com/watch?v=Z7_e6FsuV2s)
 - [Experience as an 1 month UI UX Design Intern @ineuron.ai](https://www.youtube.com/watch?v=TkDtwCcUy1c)
-- [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://www.youtube.com/watch?v=HTXQw5ZjE7U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
