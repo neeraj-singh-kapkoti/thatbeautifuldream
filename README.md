@@ -83,7 +83,7 @@
 ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
-- [📣 Coding Startup Website Template | NextJs TypeScript TailwindCSS](https://www.youtube.com/watch?v=m7kbXTFm1zg)
+- [Apologies system could not take it, will upload the recording asap.](https://www.youtube.com/watch?v=4JH-VKLzEDY)
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 - [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
 - [flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai](https://www.youtube.com/watch?v=Z7_e6FsuV2s)
