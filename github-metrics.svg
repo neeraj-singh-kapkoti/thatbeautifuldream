@@ -1332,7 +1332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>30-seconds/30-seconds-of-interviews</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated collection of common interview questions to help you prepare for your next interview.</div>
@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ther0n/UnnaturalScrollWheels</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS</div>
@@ -1633,7 +1633,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Aug 2022, 23:44:36 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 00:39:59 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
