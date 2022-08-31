@@ -99,7 +99,7 @@
 ### Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
 
 <details>
-    <summary>📊 Coding Activity </summary>
+    <summary>📊 Coding Chart </summary>
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/58e630dc-3fd2-4a17-b7ad-e631c90b7bb4.png" /></a>
 </br></details>
 
@@ -112,6 +112,12 @@
     <summary>📣 Discord Presence</summary>
       <a href="https://discord.com/users/451669359866413076"><img src="https://lanyard.cnrad.dev/api/451669359866413076" /></a>
 </br></details>
+
+## 📊 My recent coding activity
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 ### 🧠 Blog posts
