@@ -113,12 +113,6 @@
       <a href="https://discord.com/users/451669359866413076"><img src="https://lanyard.cnrad.dev/api/451669359866413076" /></a>
 </br></details>
 
-## 📊 My recent coding activity
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 
 ### 🧠 Blog posts
 
@@ -144,3 +138,10 @@
 [instagram]: https://instagram.com/that_beautifuldream
 [linkedin]: https://linkedin.com/in/milind--mishra
 [course]: https://github.com/thatbeautifuldream/pepcoding-dsa
+
+
+## 📊 My recent coding activity
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
