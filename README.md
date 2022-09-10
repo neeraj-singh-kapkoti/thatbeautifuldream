@@ -93,7 +93,7 @@
 ➡️ [more videos...][youtube]
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default) -->
 
 
 ### Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
