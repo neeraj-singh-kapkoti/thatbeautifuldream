@@ -126,7 +126,7 @@
 
 ⚡️ [read more here...](https://milindmishra.me/)
 
-## Watch my contribution graph being eaten by 🐍
+## 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
 
 ![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 
