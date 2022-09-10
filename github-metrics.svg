@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2603 Commits
+                            2604 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.60429310587412" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="184.60429310587412" y="0" width="103.45587511887975" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="288.06016822475385" y="0" width="100.21640080272257" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.2765690274764" y="0" width="23.32985994670379" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="411.60642897418023" y="0" width="19.176500582365282" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="430.78292955654547" y="0" width="11.445461306296632" height="8" fill="#e4cc98"/>
-                    <rect mask="url(#languages-bar)" x="442.2283908628421" y="0" width="9.42839340176434" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="451.6567842646064" y="0" width="8.343215735393528" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.48387778834973" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="184.48387778834973" y="0" width="103.60188180568771" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="288.0857595940374" y="0" width="100.15103076435142" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.2367903583888" y="0" width="23.401205201395495" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="411.6379955597844" y="0" width="19.16399196532403" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="430.8019875251084" y="0" width="11.437995559784332" height="8" fill="#e4cc98"/>
+                    <rect mask="url(#languages-bar)" x="442.23998308489274" y="0" width="9.422243366106354" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="451.66222645099907" y="0" width="8.337773549000952" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1321,7 +1321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jamesqquick/jamesqquick-site</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Personal site for James Q Quick (me!)</div>
@@ -1542,6 +1542,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c1789d1</div>
+                                        <div class="message">📦 NEW: dark mode only</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">thatbeautifuldream/portfolio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#0580018</div>
                                         <div class="message">🐛 FIX: moved to SF Pro fonts</div>
                                     </div>
@@ -1608,32 +1628,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">thatbeautifuldream/thatbeautifuldream</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3b1edfc</div>
-                                        <div class="message">Updated waka-readme graph with new metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Sept 2022, 16:40:51 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 10 Sept 2022, 17:50:48 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
