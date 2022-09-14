@@ -117,11 +117,11 @@
 ### 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://milindmishra.me/price-tracker)
-- [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://milindmishra.me/higher-order-functions-ii-and-beyond)
-- [Js Concepts 💊](https://milindmishra.me/js-concepts)
-- [👑 Higher Order Functions  &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
-- [Getting Started 🔥](https://milindmishra.me/getting-started-js)
+- [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://blog.milind.live/price-tracker)
+- [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://blog.milind.live/higher-order-functions-ii-and-beyond)
+- [Js Concepts 💊](https://blog.milind.live/js-concepts)
+- [👑 Higher Order Functions  &lpar;Part 1&rpar;](https://blog.milind.live/higher-order-functions-part-1)
+- [Getting Started 🔥](https://blog.milind.live/getting-started-js)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ [read more here...](https://milindmishra.me/)
