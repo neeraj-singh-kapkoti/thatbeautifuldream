@@ -2,12 +2,6 @@
 
 ![gh-banner](https://user-images.githubusercontent.com/28717686/191666992-1004b8a9-173f-4575-b299-449dc0331949.png)
 
-#
-
-### 👨🏻‍🎓 Also, I Recently Graduated!
-
-#
-
 ![meetup](https://user-images.githubusercontent.com/28717686/191666971-9750e248-65ef-4f1c-9698-9a10183253a7.png)
 
 
@@ -119,9 +113,6 @@
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 - [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
 <!-- YOUTUBE:END -->
-
-#
-
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default) -->
 
