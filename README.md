@@ -2,8 +2,6 @@
 
 ![gh-banner](https://user-images.githubusercontent.com/28717686/191666992-1004b8a9-173f-4575-b299-449dc0331949.png)
 
-![meetup](https://user-images.githubusercontent.com/28717686/191666971-9750e248-65ef-4f1c-9698-9a10183253a7.png)
-
 
 - 🔭 I'm currently working on [Data Structures and Algorithms][course]
 - 🌱 I’m currently learning everything 🤣
@@ -77,6 +75,7 @@
   </a>
 </div>
 
+![meetup](https://user-images.githubusercontent.com/28717686/191666971-9750e248-65ef-4f1c-9698-9a10183253a7.png)
 
 <div align="center">
   <a href="https://milind.bio.link/" >
