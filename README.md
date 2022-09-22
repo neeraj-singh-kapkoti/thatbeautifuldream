@@ -83,7 +83,12 @@
 ### 📺 Latest [YouTube Videos][youtube]
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://ytcards.demolab.com/?id=LQOyfyZ74Tw&title=Vite+Next+Generation+Frontend+Tooling+%7C+Faster+than+CRA+%7C+Getting+Started&timestamp=1661869571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=251 "Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started")](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
+[![⚛️ Introduction to React Js | Installation using (create-react-app) tool](https://ytcards.demolab.com/?id=BnwEZTX27lk&title=%E2%9A%9B%EF%B8%8F+Introduction+to+React+Js+%7C+Installation+using+%28create-react-app%29+tool&timestamp=1661811996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=835 "⚛️ Introduction to React Js | Installation using (create-react-app) tool")](https://www.youtube.com/watch?v=BnwEZTX27lk)
+[![Apologies system could not take it, will upload the recording asap.](https://ytcards.demolab.com/?id=4JH-VKLzEDY&title=Apologies+system+could+not+take+it%2C+will+upload+the+recording+asap.&timestamp=1661791897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=37 "Apologies system could not take it, will upload the recording asap.")](https://www.youtube.com/watch?v=4JH-VKLzEDY)
+[![📣 I finally made the Resume!](https://ytcards.demolab.com/?id=S1PDiqI17Lw&title=%F0%9F%93%A3+I+finally+made+the+Resume%21&timestamp=1661753331&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2856 "📣 I finally made the Resume!")](https://www.youtube.com/watch?v=S1PDiqI17Lw)
+[![Building my Resume! w/ Latex? or Figma?](https://ytcards.demolab.com/?id=uRuzyTlb_9o&title=Building+my+Resume%21+w%2F+Latex%3F+or+Figma%3F&timestamp=1661672974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=3372 "Building my Resume! w/ Latex? or Figma?")](https://www.youtube.com/watch?v=uRuzyTlb_9o)
+[![flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai](https://ytcards.demolab.com/?id=Z7_e6FsuV2s&title=flatfinder+%7C+Team+%60MergeConflicts%60++%7C+NativeBase+%7C+iNeuron.ai&timestamp=1656832546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=217 "flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai")](https://www.youtube.com/watch?v=Z7_e6FsuV2s)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- YOUTUBE:START -->
