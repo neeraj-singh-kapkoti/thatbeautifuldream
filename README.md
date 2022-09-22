@@ -80,7 +80,7 @@
 </br></details>
 
 
-### 📺 Latest [YouTube][youtube] Videos
+### 📺 Latest [YouTube Videos][youtube]
 
 <!-- YOUTUBE:START -->
 - [Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
@@ -90,7 +90,8 @@
 - [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...][youtube]
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default) -->
@@ -134,13 +135,6 @@
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
 </div>
 
-[website]: https://thatbeautifuldream.github.io/
-[twitter]: https://twitter.com/dryruncatch
-[youtube]: https://youtube.com/milindmishra
-[instagram]: https://instagram.com/that_beautifuldream
-[linkedin]: https://linkedin.com/in/milind--mishra
-[course]: https://github.com/thatbeautifuldream/pepcoding-dsa
-
 
 ## 📊 My recent coding activity
 
@@ -156,3 +150,10 @@ Other        3 mins          ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+[website]: https://thatbeautifuldream.github.io/
+[twitter]: https://twitter.com/dryruncatch
+[youtube]: https://youtube.com/milindmishra?sub_confirmation=1
+[instagram]: https://instagram.com/that_beautifuldream
+[linkedin]: https://linkedin.com/in/milind--mishra
