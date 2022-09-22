@@ -4,8 +4,7 @@
 
 ### 👨🏻‍🎓 Also, I Recently Graduated!
 
-![graduation-pic](https://user-images.githubusercontent.com/28717686/180855843-7272346e-3136-48f3-be6c-82a0c0326e9b.png)
-
+![meetup](https://user-images.githubusercontent.com/28717686/191661716-30ca1f41-1daa-48de-ae25-5c7111be5ed6.png)
 
 - 🔭 I'm currently working on [Data Structures and Algorithms][course]
 - 🌱 I’m currently learning everything 🤣
