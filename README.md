@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FD4EDD&width=500&height=50&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I'm+looking+for+full-time+roles;%F0%9F%92%A1+Click+to+get+my+LinkedIn)](http://in.milind.live)
 
-![banner](assets/images/banner.png)
+![gh-banner](https://user-images.githubusercontent.com/28717686/191666992-1004b8a9-173f-4575-b299-449dc0331949.png)
 
 ### 👨🏻‍🎓 Also, I Recently Graduated!
 
-![meetup](https://user-images.githubusercontent.com/28717686/191661716-30ca1f41-1daa-48de-ae25-5c7111be5ed6.png)
+![meetup](https://user-images.githubusercontent.com/28717686/191666971-9750e248-65ef-4f1c-9698-9a10183253a7.png)
+
 
 - 🔭 I'm currently working on [Data Structures and Algorithms][course]
 - 🌱 I’m currently learning everything 🤣
