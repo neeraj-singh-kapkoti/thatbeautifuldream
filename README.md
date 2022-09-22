@@ -154,6 +154,8 @@
 
 ⚡️ [read more here...](https://milindmishra.me/)
 
+![blog-banner](https://user-images.githubusercontent.com/28717686/191738031-b2fc9961-ffd3-4195-b29c-138a5f83a2ec.png)
+
 ### 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
 
 ![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
