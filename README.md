@@ -82,6 +82,10 @@
 
 ### 📺 Latest [YouTube Videos][youtube]
 
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+
 <!-- YOUTUBE:START -->
 - [Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
 - [⚛️ Introduction to React Js | Installation using &lpar;create-react-app&rpar; tool](https://www.youtube.com/watch?v=BnwEZTX27lk)
@@ -89,9 +93,6 @@
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 - [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
 <!-- YOUTUBE:END -->
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
 
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default) -->
