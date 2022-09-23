@@ -181,7 +181,7 @@ Other        3 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-[website]: https://thatbeautifuldream.github.io/
+[website]: https://milind.live/
 [twitter]: https://twitter.com/dryruncatch
 [youtube]: https://youtube.com/milindmishra?sub_confirmation=1
 [instagram]: https://instagram.com/that_beautifuldream
