@@ -9,11 +9,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love anime 🍿
 
-#
-
 ### :dizzy: Connect on Networks
-
-#
 
 <div align="center">
   <a href="https://www.linkedin.com/in/milind--mishra/">
@@ -46,11 +42,7 @@
 
 </div>
 
-#
-
 ### :zap: Recent GitHub Activity
-
-#
 
 <!--START_SECTION:activity-->
 
@@ -61,11 +53,7 @@
 5. 🎉 Merged PR [#67](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/67) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
-#
-
 ### GitHub Stats
-
-#
 
 <div align="center">
   <a href="https://milind.bio.link/" >
@@ -88,11 +76,7 @@
       <a href="https://milind.live"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
 </br></details>
 
-#
-
 ### 📺 Latest [YouTube Videos][youtube]
-
-#
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://ytcards.demolab.com/?id=LQOyfyZ74Tw&title=Vite+Next+Generation+Frontend+Tooling+%7C+Faster+than+CRA+%7C+Getting+Started&timestamp=1661869571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=251 "Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started")](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
@@ -103,7 +87,6 @@
 [![flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai](https://ytcards.demolab.com/?id=Z7_e6FsuV2s&title=flatfinder+%7C+Team+%60MergeConflicts%60++%7C+NativeBase+%7C+iNeuron.ai&timestamp=1656832546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=217 "flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai")](https://www.youtube.com/watch?v=Z7_e6FsuV2s)
 <!-- END YOUTUBE-CARDS -->
 
-#
 
 <!-- YOUTUBE:START -->
 - [Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
@@ -115,12 +98,7 @@
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default) -->
 
-
-#
-
 ### Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
-
-#
 
 <details>
     <summary>📊 Coding Chart </summary>
@@ -137,12 +115,7 @@
       <a href="https://discord.com/users/451669359866413076"><img src="https://lanyard.cnrad.dev/api/451669359866413076" /></a>
 </br></details>
 
-
-#
-
 ### 🧠 Blog posts
-
-#
 
 <!-- BLOG-POST-LIST:START -->
 - [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://blog.milind.live/price-tracker)
